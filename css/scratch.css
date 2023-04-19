@@ -1,0 +1,72 @@
+
+
+body{
+    background-color: rgb(197, 203, 236);
+    border: 15px dotted black; 
+    padding: 5px;
+    margin: 20px;
+    text-align: center;
+    font-style: normal;
+    
+}
+
+ol{
+    list-style-position: inside;
+}
+
+ul{
+    list-style-position: inside;
+}
+a{
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bolder;
+    font-size: 25px;
+    font-stretch:condensed;
+    font-variant: small-caps;
+    background-color: rgb(228, 234, 247);
+}
+
+
+h1{
+    font-size: 60px;
+    }
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%; 
+    
+
+}
+
+.sports{
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size:x-large;
+    color: black;
+    font-style:oblique
+}
+
+.travel{
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size:x-large;
+    color: black;
+    font-style:oblique;}
+   
+.music{
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size:x-large;
+    color: black;
+    font-style:oblique;
+}
+
+
+.tableauPlaceholder{
+    justify-content: center;
+    padding-left: 35%;
+    
+}
